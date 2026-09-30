@@ -423,3 +423,9 @@ El proyecto conserva las ventajas de Bootstrap y de la plantilla original, mient
 - Linux
 - XAMPP
 - Apache
+
+## Captura de pantalla
+
+Mostrando el portafolio funcionando en el navegador:
+
+![Portafolio funcionando](assets/img/Captura1.jpeg)
